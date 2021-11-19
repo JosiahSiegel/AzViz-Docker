@@ -1,0 +1,3 @@
+bin/*
+!bin/README.md
+viz_config.sh
